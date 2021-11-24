@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Cody
+- 👀 I’m interested in 3d game hacks
+- 🌱 I’m currently learning java photoshop.
+- 📫 Reach me on email
